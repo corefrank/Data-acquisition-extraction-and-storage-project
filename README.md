@@ -7,7 +7,7 @@ This is a group project that completed by Kanupriya Jain, Nan An and Othman Hich
 - **Othman Hicheur**
 
 ---
-
+# Project Proposal
 ## 1. Objective and Data Sources
 
 Our project focuses on extracting and structuring metadata from research papers published on **arXiv** and **Google Scholar**. Additional external sources may be used for cross-referencing. The main objectives are:
